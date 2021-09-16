@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+Tainan
 
 - 我決定來這裡的動機？
 
-NULL
+I want to learn
 
 - 我對這門課的期望？
 
-NULL
+I hope to learn something
